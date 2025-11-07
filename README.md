@@ -16,4 +16,4 @@ The FoodGenie Android App
 
  1. Make a copy of this repository:
 
- Git clone <your-repo-url> with bash
+ Git clone <https://github.com/Noeela/OPSCPOE.git> with bash
